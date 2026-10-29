@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/43960873?s=200&v=4
 source:
   project: https://github.com/oxylabs/oxylabs-mcp
-  commit: 0e738c89335e8e521a5b1b925f048ea075c8235b
+  commit: 224d771b766e65ab4c8ab721539b2b63306f2290
 config:
   description: Configure the connection to Oxylabs Scraper
   secrets:
